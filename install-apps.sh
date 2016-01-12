@@ -16,6 +16,10 @@ fi
 brew install caskroom/cask/brew-cask
 
 # GUI OSX applications
+#
+# DO NOT INSTALL 1Password from brew cask. That version does not include iCloud sync support. Use the App Store version instead.
+#
+brew cask install crashplan
 brew cask install dropbox
 brew cask install google-chrome
 brew cask install flash
