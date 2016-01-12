@@ -8,6 +8,11 @@ Fork this repo and then:
 
 ```bash
 $ git clone git@github.com:<my github id>/development-environment-osx.git
+```
+If you haven't installed Xcode yet, you will be prompted to do so. You only need the Xcode command line tools to run Git, but if you want to do any iOS or OS X development, you'll need the full Xcode install. Once Xcode is installed, repeat the following:
+
+```bash
+$ git clone git@github.com:<my github id>/development-environment-osx.git
 $ cd development-environment-osx
 ```
 
