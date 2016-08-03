@@ -39,3 +39,4 @@ brew install wget
 brew install git
 brew install tree
 brew install node
+brew install python3
