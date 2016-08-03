@@ -31,9 +31,11 @@ brew cask install virtualbox
 brew cask install vagrant
 brew cask install iterm2
 brew cask install screenhero
+brew cask install dockertoolbox
 
 # Command line applications
 brew install zsh
 brew install wget
 brew install git
 brew install tree
+brew install node
